@@ -1,0 +1,9 @@
+<!-- widgets/toggleButton/views/widget.xml -->
+<Alloy>
+	<!-- we have a view to contain the buttons -->
+	<View id="container">
+		<!-- we will alternate between thse two buttons -->
+		<Button id="on">Button is On</Button>
+		<Button id="off">Button is Off</Button>
+	</View>
+</Alloy>
